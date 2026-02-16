@@ -2,7 +2,7 @@
 The reports are located at the root directory. 
 
 # Executive Summary
-![Summary](ExecutiveSummaryHardwareAssessment.pdf)
+![Summary](one_page_summary.png)
 
 # Hardware-Assessment- Ethical-Hacking-Final
 Objective: ThanosTech LLC (Fictive Company for the sake of ethical hacking class) contracted to uncover weaknesses, of IoT devices (microcontroller) and recommend fixes.  
