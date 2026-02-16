@@ -1,5 +1,8 @@
 # Pentest Report and Executive Summary
-The reports are located at the root directory.
+The reports are located at the root directory. 
+
+# Executive Summary
+![Summary](ExecutiveSummaryHardwareAssessment.pdf)
 
 # Hardware-Assessment- Ethical-Hacking-Final
 Objective: ThanosTech LLC (Fictive Company for the sake of ethical hacking class) contracted to uncover weaknesses, of IoT devices (microcontroller) and recommend fixes.  
